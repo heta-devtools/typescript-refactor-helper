@@ -167,4 +167,4 @@ if (!confirmChoice || confirmChoice.label === "Cancel") {
     vscode.window.showInformationMessage(`Extracted function "${functionName}" created!`);
 }
 
-export function deactivate() {}
+export function deactivate() {}// Placeholder for future updates
